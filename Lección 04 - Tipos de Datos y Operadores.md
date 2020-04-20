@@ -183,7 +183,7 @@ Para poder convertir un tipo de datos a otro podemos usar las siguientes funcion
 True
 ```
 
-## Funciones incorporadas (Buil-in)
+## Funciones incorporadas (Built-in)
 
 Algunos métodos de cadena que podemos usar:
 
