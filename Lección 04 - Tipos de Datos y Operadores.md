@@ -12,7 +12,7 @@ En esta lección conoceremos aprenderemos acerca de:
 
 - Conversión de tipos de datos
 
-- Funciones incorporadas (Buil-in)
+- Funciones incorporadas (Built-in)
 
 - Guías de estilo (Best Practices)
 
