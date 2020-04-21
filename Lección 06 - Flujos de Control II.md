@@ -140,7 +140,7 @@ while sum(hand) < 17:
     hand.append(card_deck.pop())
 ```
 
-**Componentes de un bucle `for`**  :
+**Componentes de un bucle `while`**  :
 
 1. La primera línea del bucle comienza con la palabra clave `while`.
 
