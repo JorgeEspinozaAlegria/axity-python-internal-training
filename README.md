@@ -79,7 +79,7 @@ En este curso aprenderás:
 
 - Utilizar el repositorio `axity-python-internal-training` para compartir con el grupo de asistentes. Este repositorio puede estar en [GitHub](https://github.com) o en algún otro servicio de gestión de repositorios de **Git**.
 
-- Dentro del repositorio `axity-python-internal-training` se encuentra el directorio `solutions` el cual contiene las soluciones a cada uno de los ejercicios planteados en este curso. Este directorio se encuentra incluido en el archivo `.gitignore` ya que es para uso solo del instructor como apoyo a la solución de los ejercicios de este curso.
+- Dentro del repositorio `axity-python-internal-training` se encuentra el directorio `solutions` el cual contiene las soluciones a cada uno de los ejercicios planteados en este curso. Este directorio se encuentra incluido en el archivo `.gitignore` ya que es para uso exclusivo del instructor como apoyo a la solución de los ejercicios de este curso.
 - Para la lección 11 (Python & AWS), se recomienda que el instructor tenga una cuenta en AWS para poder crear un Bucket en S3 y un Clúster de Redshift. Para configurar el ambiente en AWS:
 	- Crear un bucket y cargar los archivos del directorio `solutions/bucket` (o bien descargar y descomprimir el archivo `bucket.zip`)
 	- Crear un clúster de Redshift con los siguientes datos:
